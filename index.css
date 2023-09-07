@@ -2,7 +2,10 @@
 body{
     justify-content: center;
     align-items: center;
-    display: inline;
+    align-content: center;
+    align-self: center;
+    display: block;
+    translate: 40%;
     background-color: rgb(225, 255, 255);
     
 }
